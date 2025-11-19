@@ -19,9 +19,9 @@ II. Application to estimate mean and covariance of uncertain state undergoing no
 
 
 ### Figures
-<img alt="Illustration" src="pictures/Gauss-Laguerre-quadrature_illutration.jpg" width="600" height="600"> </img>
+<img alt="Illustration" src="pictures/Gauss-Laguerre-quadrature_illutration.jpg" width="700" height="700"> </img>
 
-<img alt="Illustration" src="pictures/Gauss-Hermite-quadrature_illutration.jpg"  width="800" height="800"> </img>
+<img alt="Illustration" src="pictures/Gauss-Hermite-quadrature_illutration.jpg"  width="700" height="700"> </img>
 
 
 
