@@ -6,17 +6,21 @@ Graphic and numerical illustration of computation of non trivial integral involv
 
 
 
+### Files:
+- "Gauss_Laguerre_quadrature.m":
+- "Gauss_Hermite_quadrature.m"
+- 
+
 ### Contents:
 
-- "Gauss_Laguerre_quadrature.m":
-- ""
-
-
 <img alt="Illustration" src="pictures/Gauss-Laguerre-quadrature_illutration.jpg"> </img>
+
+<img alt="Illustration" src="pictures/Gauss-Hermite-quadrature_illutration.jpg"> </img>
 
 
 
 Sources:
 - For Gaussian quadrature methods: https://en.wikipedia.org/wiki/Gaussian_quadrature
 - For Gauss-Laguerre quadrature: https://en.wikipedia.org/wiki/Gauss%E2%80%93Laguerre_quadrature
+- For Gauss-Hermitte quadrature: https://en.wikipedia.org/wiki/Gauss%E2%80%93Hermite_quadrature
 - For Gauss-Legendre quadrature : https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_quadrature
