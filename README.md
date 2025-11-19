@@ -2,18 +2,23 @@
 Illustration of Gaussian/Laguerre/Legendre quadrature methods and application to state estimation 
 
 
-Graphic and numerical illustration of computation of non trivial integral involving gaussian law or deacreasing exponential on finite or infinite support.
-
-
 
 ### Files:
 - "Gauss_Laguerre_quadrature.m":
 - "Gauss_Hermite_quadrature.m"
-- "cubature.m"
+- "cubature.m" -> to come
   
 
 ### Contents:
 
+I. Application of Gauss quadrature methods to approximate the computation of non trivial integral involving gaussian law or deacreasing exponential on finite or infinite support: graphics illustrations and numerical outcomes on different examples. 
+
+II. Application to estimate mean and covariance of uncertain state undergoing nonlinear transformations.
+
+-> to come
+
+
+### Figures
 <img alt="Illustration" src="pictures/Gauss-Laguerre-quadrature_illutration.jpg"> </img>
 
 <img alt="Illustration" src="pictures/Gauss-Hermite-quadrature_illutration.jpg"> </img>
