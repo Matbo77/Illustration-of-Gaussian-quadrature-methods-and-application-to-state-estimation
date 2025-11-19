@@ -9,7 +9,8 @@ Graphic and numerical illustration of computation of non trivial integral involv
 ### Files:
 - "Gauss_Laguerre_quadrature.m":
 - "Gauss_Hermite_quadrature.m"
-- 
+- "cubature.m"
+  
 
 ### Contents:
 
