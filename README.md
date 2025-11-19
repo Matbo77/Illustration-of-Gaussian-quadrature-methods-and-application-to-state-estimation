@@ -2,8 +2,17 @@
 Illustration of Gaussian/Laguerre/Legendre quadrature methods and application to state estimation 
 
 
-Graphic and numerical illustration of computation of non trivial integrant involving gaussian law or deacreasing exponential. 
+Graphic and numerical illustration of computation of non trivial integral involving gaussian law or deacreasing exponential on finite or infinite support.
 
+
+
+### Contents:
+
+- "Gauss_Laguerre_quadrature.m":
+- ""
+
+
+<img alt="Illustration" src="pictures/Gauss-Laguerre-quadrature_illutration.jpg"> </img>
 
 
 
