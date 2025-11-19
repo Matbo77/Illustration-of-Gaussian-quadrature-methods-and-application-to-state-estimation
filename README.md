@@ -19,7 +19,7 @@ Graphic and numerical illustration of computation of non trivial integral involv
 
 
 
-Sources:
+### Sources:
 - For Gaussian quadrature methods: https://en.wikipedia.org/wiki/Gaussian_quadrature
 - For Gauss-Laguerre quadrature: https://en.wikipedia.org/wiki/Gauss%E2%80%93Laguerre_quadrature
 - For Gauss-Hermitte quadrature: https://en.wikipedia.org/wiki/Gauss%E2%80%93Hermite_quadrature
